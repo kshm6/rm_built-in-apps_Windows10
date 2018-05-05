@@ -1,0 +1,2 @@
+# rm_built-in-apps_Windows10
+Windows10の標準アプリをまとめてアンインストールするバッチファイルです
