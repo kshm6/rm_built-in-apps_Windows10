@@ -1,6 +1,7 @@
 Rem ****************************************
 Rem Remove the preinstalled application of Windows 10. 
 Rem Windows10のプリインストールアプリを削除します。
+Rem githubの練習を兼ねています。
 Rem ****************************************
 
 
